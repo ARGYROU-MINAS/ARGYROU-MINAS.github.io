@@ -12,6 +12,8 @@ ARGYROU MINAS
 
 [admin@argyrouminas.eu](mailto:admin@argyrouminas.eu)
 
+[+306992832116](tel:+306992832116)
+
 [IANA PEN OID: 1.3.6.1.4.1.49354](https://oid-rep.orange-labs.fr/get/1.3.6.1.4.1.49354)
 
 # 
