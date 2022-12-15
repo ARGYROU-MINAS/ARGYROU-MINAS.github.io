@@ -4,12 +4,12 @@ ARGYROU-MINAS.github.io
 
 ARGYROU MINAS
 
-https://argyrouminas.eu
+[https://argyrouminas.eu](https://argyrouminas.eu)
 
-minasargyrou@outlook.com
+[minasargyrou@outlook.com](mailto:minasargyrou@outlook.com)
 
-info@argyrouminas.eu
+[info@argyrouminas.eu](mailto:info@argyrouminas.eu)
 
-admin@argyrouminas.eu
+[admin@argyrouminas.eu](mailto:admin@argyrouminas.eu)
 
 # 
