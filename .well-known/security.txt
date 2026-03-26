@@ -1,0 +1,8 @@
+Contact: mailto:minasargyrou@outlook.com
+Contact: tel:+35796552182
+Contact: tel:+306992832116
+Contact: https://gravatar.com/argyrouminas
+Expires: 2225-12-31T11:59:00Z
+Canonical: https://argyrouminas.eu/.well-known/security.txt
+Canonical: https://www.argyrouminas.eu/.well-known/security.txt
+Preferred-Languages: en, el
