@@ -1,0 +1,57 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ARGYROU-MINAS/ARGYROU-MINAS.github.io
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: MINAS
+    family-names: ARGYROU
+    email: minasargyrou@outlook.com
+    orcid: 'https://orcid.org/0000-0003-1450-4835'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7439329
+    description: The concept DOI of the work.
+  - type: url
+    value: 'https://argyrouminas.eu'
+    description: The URL of the software.
+  - type: url
+    value: >-
+      https://github.com/ARGYROU-MINAS/ARGYROU-MINAS.github.io
+    description: Repository URL.
+repository-code: 'https://github.com/ARGYROU-MINAS/ARGYROU-MINAS.github.io'
+url: 'https://argyrouminas.eu'
+abstract: >-
+  The URL https://argyrouminas.eu/ is the result of this
+  source code.
+license-url: "https://argyrouminas.eu/LICENSE.md"
+preferred-citation:
+ copyright: "© 2021-Now ARGYROU MINAS. All rights reserved."
+ authors:
+  - given-names: MINAS
+    family-names: ARGYROU
+    email: minasargyrou@outlook.com
+    orcid: 'https://orcid.org/0000-0003-1450-4835'
+ title: ARGYROU-MINAS/ARGYROU-MINAS.github.io
+ type: software
+ identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7439329
+    description: The concept DOI of the work.
+  - type: url
+    value: 'https://argyrouminas.eu'
+    description: The URL of the software.
+  - type: url
+    value: >-
+     https://github.com/ARGYROU-MINAS/ARGYROU-MINAS.github.io
+    description: Repository URL.
+ repository-code: 'https://github.com/ARGYROU-MINAS/ARGYROU-MINAS.github.io'
+ url: 'https://argyrouminas.eu'
+ abstract: >-
+  The URL https://argyrouminas.eu/ is the result of this source code.
+ license-url: "https://argyrouminas.eu/LICENSE.md"
+ 
